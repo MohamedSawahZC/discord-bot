@@ -1,0 +1,9 @@
+{
+  "dependencies": {
+    "discord.js": "^13.6.0",
+    "nodemon": "^2.0.15"
+  },
+  "scripts": {
+    "start": "nodemon app.js"
+  }
+}
